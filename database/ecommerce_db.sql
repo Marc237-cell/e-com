@@ -40,7 +40,7 @@ CREATE TABLE `admins` (
 --
 
 INSERT INTO `admins` (`id`, `username`, `password`, `email`, `created_at`) VALUES
-(1, 'admin', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'admin@techgadgets.com', '2025-11-26 04:12:18');
+(1, 'shop', 'you cant know', 'admin@techgadgets.com', '2025-11-26 04:12:18');
 
 -- --------------------------------------------------------
 
